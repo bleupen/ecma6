@@ -1,0 +1,20 @@
+{
+  "name": "ecma6",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.3.0",
+    "co": "^3.1.0",
+    "request": "^2.40.0",
+    "thunkify": "^2.1.2"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1"
+  }
+}
